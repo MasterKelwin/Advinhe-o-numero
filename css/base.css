@@ -1,0 +1,16 @@
+:root {
+--branco: #FFF;
+--preto: #000;
+--vermelho: rgb(80, 4, 4);
+--vermelhoEscuro: rgb(27, 1, 1);
+
+--montserrat: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: var(--montserrat);
+    background-image: url("assets/bg.png");
+}
+
+
+
