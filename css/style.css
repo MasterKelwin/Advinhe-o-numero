@@ -45,7 +45,7 @@ input {
     color: var(--branco);
     background-color: var(--vermelho);
     border: 2px solid var(--vermelho);
-    border-radius: 10%;
+    border-radius: 4%;
     text-align: center;
 }
 
@@ -66,4 +66,10 @@ button:hover {
 
 .fieldset__item {
     margin: 1%;
+}
+
+h2 {
+    font-size: 2em;
+    color: var(--branco);
+    text-align: center;
 }
